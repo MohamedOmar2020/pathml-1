@@ -7,6 +7,7 @@
 [![PyPI version](https://img.shields.io/pypi/v/pathml)](https://pypi.org/project/pathml/)
 ![tests](https://github.com/Dana-Farber-AIOS/pathml/actions/workflows/tests-conda.yml/badge.svg?branch=master)
 ![dev-tests](https://github.com/Dana-Farber-AIOS/pathml/actions/workflows/tests-conda.yml/badge.svg?branch=dev)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMohamedOmar2020%2Fpathml_mo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMohamedOmar2020%2Fpathml_mo?ref=badge_shield)
 
 ⭐ **PathML objective is to lower the barrier to entry to digital pathology**
 
@@ -315,10 +316,13 @@ The user is free to use, modify, and distribute under the terms of the GNU Gener
 
 Commercial license options are available also.
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMohamedOmar2020%2Fpathml_mo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMohamedOmar2020%2Fpathml_mo?ref=badge_large)
+
 # 8. Contact
 
 Questions? Comments? Suggestions? Get in touch!
 
 [pathml@dfci.harvard.edu](mailto:pathml@dfci.harvard.edu)
 
-<img src=https://raw.githubusercontent.com/Dana-Farber-AIOS/pathml/master/docs/source/_static/images/dfci_cornell_joint_logos.png width="750"> 
+<img src=https://raw.githubusercontent.com/Dana-Farber-AIOS/pathml/master/docs/source/_static/images/dfci_cornell_joint_logos.png width="750">
